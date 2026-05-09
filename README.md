@@ -5,7 +5,7 @@
 Hệ thống license gồm 2 phần:
 
 - License Server: dùng để quản lý key
-- Client Website: website napthe kiểm tra key từ server
+- Client Website: website kiểm tra key từ server
 
 License được lưu trên server riêng và website client sẽ gọi API để xác thực.
 
