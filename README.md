@@ -500,5 +500,3 @@ https://your-license-server.com/license.php?key=ABC-123-XYZ&domain=example.com
 }
 ```
 
-```
-```
